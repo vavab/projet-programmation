@@ -11,11 +11,7 @@ sauvegarder le résultat.
 Le projet doit s'effectuer seul. Vous devez écrire un rapport (max 5 pages) expliquant rapidement la
 structure de votre programme et vos choix d'implémentation. Le code source et le rapport doivent
 être déposé sur un projet git sur le git de l'unistra (l'enseignant doit être ajouté dans les membres du
-projet pour y avoir accés). Le rapport et le code source doivent être déposés avant le 4 Juin à 15h00.
-Ensuite vous aurez un entretien (entre 15 et 30 minutes) la semaine du 7 Juin. Durant cette entretien,
-vous aurez à répondre à des questions concernant votre projet (sur les choix d'implémentation, des
-questions particulières sur des morceaux de code que vous avez écrit, ou bien des questions sur des
-extensions possibles de votre projet).
+projet pour y avoir accés). 
 Vous avez le droit d'utiliser du code source trouvé sur internet, mais vous devez le cité clairement dans le
 code source et vous devez comprendre ce que vous avez copié (il pourra y avoir des questions dessus par
 exemple du type "à quoi sert cette ligne", donc ne copiez que ce que vous comprennez entièrement).
