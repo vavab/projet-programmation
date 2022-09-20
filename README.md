@@ -1,5 +1,6 @@
 # Projet Programmation
 Projet de programmation effectué en première année d'école d'ingénieurs.
+![alt text](https://github.com/vavab/projet-programmation/blob/main/sch%C3%A9ma-archi-logicielle.png)
 ## Sujet
 Le but du projet est de d'analyser la base de données des arbres de Paris, stockée au format CSV, afin d'en
 extraire un sous-arbre (au sens des graphes) de poids minimum.
